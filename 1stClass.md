@@ -14,6 +14,9 @@
 https://cloudlatex.io/
 ### Overleaf
 https://ja.overleaf.com/
+
+日本語に対応したpLaTeX環境を作るために設定が必要です
+https://doratex.hatenablog.jp/entry/20180503/1525338512
 ### でどっちが良いの？
 「レポートを書く」ために使うならCloud LaTeXで良いと思います。
 http://adhara.hatenadiary.jp/entry/2017/03/19/082818
